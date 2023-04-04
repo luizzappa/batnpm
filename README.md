@@ -8,14 +8,14 @@ set PROXY_URL=
 
 In your terminal run the command:
 ```
-\.batpip.bat <rest of the npm command>
+\.batnpm.bat <rest of the npm command>
 ```
 
 A prompt with username and password will open.
 
 To test if it is working correctly run:
 ```
-\.batpip.bat ping
+\.batnpm.bat ping
 ```
 
 
